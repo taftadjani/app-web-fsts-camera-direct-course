@@ -1,0 +1,61 @@
+Pages 
+	Page d'acceuil
+		Affichage depends de l'utilisateur
+		Recommended
+			Des cours d'aprés ce qu'il ont vu dans le passé
+		Des cours selon ce qu'ils suivent
+	Page d'administration
+		Activer, desactiver un compte
+		CRUD cours 
+		CRUD compte 
+		CRUD camera 
+		Activer, desactiver camera
+		CRUD category
+		CRUD Classe
+	Page de visionnage en direct
+	Page d'authentification
+	Page de creation de compte 
+	Page de compte 
+
+Fonctionnalités
+	Videos 
+		en direct 
+		non direct 
+		Categories
+			Cours 
+			Reunion
+		Meme video peut appartenir à plusieurs classe, categories
+	Filtre
+		Choisir les cours par classe
+	Types d'utilisateurs
+		Administrateur
+			Activer, desactiver les cameras
+			Expulser un eleve d'une session(empecher de visionner la camera)
+		Eleves
+			Voir les cours(visionner une camera)
+			Ne peuvent voir que les cours sur lesquels ils sont inscrit(Dates)
+			Voir les cours du meme categories diffusés dans le passé
+			Suivre des cours
+		Professeurs
+			Activer et desactiver une camera.
+	Commentaires ecrit sur les videos en direct 
+	Audio en direct pour poser des questions au professeurs 
+	Quelques choses que les etudiants pourait cliquer(ou inserer leur questions) pour indiquer qu'ils ont des questions(Pour faire comme une fil d'attente des questions pour le professeurs)
+	Systemes pour aider les etudiants à trouver des reponses au questions poser dans les cours 
+		Lister les questions 
+		Pour chaque questions poser dans un cours, correspond un moment dans ce cours(pour aider les etudiants à retrouver la reponse dans ce cours)
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
